@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Filmaday</title>
+    <link>https://filmaday.com.au/tags/</link>
+    <description>Recent content in Tags on Filmaday</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Mar 2017 11:48:43 +1000</lastBuildDate>
+    
+	<atom:link href="https://filmaday.com.au/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cinema</title>
+      <link>https://filmaday.com.au/tags/cinema/</link>
+      <pubDate>Sun, 12 Mar 2017 11:48:43 +1000</pubDate>
+      
+      <guid>https://filmaday.com.au/tags/cinema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Criticism</title>
+      <link>https://filmaday.com.au/tags/criticism/</link>
+      <pubDate>Sun, 12 Mar 2017 11:48:43 +1000</pubDate>
+      
+      <guid>https://filmaday.com.au/tags/criticism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Dewar</title>
+      <link>https://filmaday.com.au/tags/daniel-dewar/</link>
+      <pubDate>Sun, 29 Jan 2017 11:48:43 +1000</pubDate>
+      
+      <guid>https://filmaday.com.au/tags/daniel-dewar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://filmaday.com.au/tags/music/</link>
+      <pubDate>Tue, 25 Aug 2015 11:48:43 +1000</pubDate>
+      
+      <guid>https://filmaday.com.au/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natasha Fox</title>
+      <link>https://filmaday.com.au/tags/natasha-fox/</link>
+      <pubDate>Sun, 12 Mar 2017 11:48:43 +1000</pubDate>
+      
+      <guid>https://filmaday.com.au/tags/natasha-fox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>https://filmaday.com.au/tags/review/</link>
+      <pubDate>Sun, 12 Mar 2017 11:48:43 +1000</pubDate>
+      
+      <guid>https://filmaday.com.au/tags/review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

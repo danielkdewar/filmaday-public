@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: filmaday.com.au
+Token: f448982eaf097331dc29cd6bf3cfc1a74eda13ae21fefc5125644a85095c787e
